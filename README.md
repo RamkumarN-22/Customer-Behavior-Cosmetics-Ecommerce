@@ -22,23 +22,6 @@ This project explores and analyzes customer behavior in an online cosmetics stor
 
 ---
 
-## 📁 Project Structure
-
-Customer-Behavior-Cosmetics-Ecommerce/
-├── README.md
-├── freelance-customer-insights-project-cosmetics.ipynb
-├── output_visuals/
-│ ├── funnel_chart.png
-│ └── rfm_barplot.png
-├── data/
-│ └── info.txt
-├── PowerBI/
-│ └── customer_behavior_dashboard.pbix (optional)
-├── LICENSE
-└── .gitignore
-
-
----
 
 ### 📄 Folder Descriptions
 
