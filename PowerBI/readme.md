@@ -1,5 +1,3 @@
----
-
 ## 📊 Power BI Dashboard (Preview)
 
 An interactive dashboard is in progress to visualize key insights such as:
@@ -16,6 +14,3 @@ An interactive dashboard is in progress to visualize key insights such as:
 📎 *Note: Hosted externally due to GitHub’s 25MB file size limitation.*
 
 🛠️ The dashboard is being continuously improved with storytelling structure, colors, filters, and RFM segmentation in future updates.
-
----
-
